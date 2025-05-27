@@ -30,7 +30,7 @@ Abre y ejecuta la escena principal (MainScene.unity o similar)
 Rene Cruz Montejo
 Hernandez Milian Alejandro
 
-![gato Empate](https://github.com/user-attachments/assets/bff94718-d73e-4644-8efc-78844b223b90)
-![Gato x](https://github.com/user-attachments/assets/4d711f0d-4e9b-4029-9654-cc41489248d2)
-![gato principal](https://github.com/user-attachments/assets/9fa5d88d-83a9-45d7-9353-f476960b1c63)
-![Gato o](https://github.com/user-attachments/assets/f5dd659e-b746-4932-8aac-44fdfa761fca)
+![Gato x](https://github.com/user-attachments/assets/ef77dd8b-ae5d-4c76-9ad8-3e1c9f8b65fc)
+![gato principal](https://github.com/user-attachments/assets/b73fd808-c645-4503-9eb7-16909740ed61)
+![Gato o](https://github.com/user-attachments/assets/2f77a4db-91be-4f61-acb5-f2f65dc61653)
+![gato Empate](https://github.com/user-attachments/assets/4c841ea0-ee8d-405c-abfb-e61228197d9d)
